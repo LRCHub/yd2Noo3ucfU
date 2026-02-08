@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夜行バス",
+  "base_artist": "Tele",
+  "createdAt": "2026-02-08T17:06:56.419702Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜行バス",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_夜行バス_Aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜行バス",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_夜行バス_Tele.txt"
+    }
+  ]
+}
